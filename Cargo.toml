@@ -1,0 +1,8 @@
+[package]
+name = "verificac19"
+version = "0.1.0"
+edition = "2021"
+description = "Rust implementation of the Italian Digital Covid Certificate Validation process"
+
+
+[dependencies]
